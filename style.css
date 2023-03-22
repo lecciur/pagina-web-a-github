@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+img{
+    width: 20rem;
+}
+h1{
+    color: gold;
+}
+footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: right;
+    background-color: bisque;
+}
+h2{
+    color: black;
+}
